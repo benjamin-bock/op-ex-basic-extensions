@@ -1,17 +1,27 @@
-# N-HiTec - Op&Ex Basic Extensions
+# N-HiTec Op&Ex — Basic Extensions
 
-## Utilities
+Extensions de base pour les membres du département **Opérations & Exécutions** de N-HiTec.
 
-This extension pack contains various useful extensions related to
+## Stack
 
-* [Laravel](https://laravel.com/docs)
-* PHP
-* [Bootstrap V5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-* CSS
-* Git
-* Docker
-* Various utilities related to web development
+Ce pack d'extensions est destiné au développement web moderne avec :
 
-## For more information
+* [Laravel 12](https://laravel.com/docs)
+* [Inertia.js](https://inertiajs.com/)
+* [React](https://react.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* PHP / JavaScript / TypeScript
+* Git, Docker et divers utilitaires
 
-For feedback and remarks, you can contact us at __info@nhitec.com__
+## Contenu
+
+* **PHP / Laravel** : Intelephense, Laravel Extra Intellisense, Laravel Artisan
+* **Front-end** : ESLint, Prettier, ES7+ React snippets, Tailwind CSS IntelliSense
+* **Inertia.js** : Inertia IntelliSense
+* **Confort** : Error Lens, npm & Path IntelliSense, Import Cost, Auto Rename Tag, Highlight Matching Tag
+* **Git & Docker** : Git Graph, GitLens, Docker
+* **Divers** : IntelliCode, Material Icon Theme
+
+## Pour plus d'informations
+
+Pour vos remarques et retours, contactez-nous à __info@nhitec.com__
